@@ -1,12 +1,16 @@
 # WhatsApp redesign
 
 <h2>Design by</h2>
+https://dribbble.com/shots/15396776-What-s-App-Redesign
 
 <h2>Videos</h2>
+https://user-images.githubusercontent.com/54670983/182380229-46431b76-3d33-495b-8b13-574d2d66e8a1.mp4
 
 <h2>Prints</h2>
 <div>
-
+  <img src= "https://user-images.githubusercontent.com/54670983/182379894-2cf4712c-f1e7-42a2-ad41-ca21f38c4382.jpg" width="200" height="400">
+  <img src= "https://user-images.githubusercontent.com/54670983/182379904-b5b03485-0547-4ea0-977e-1c43b8d383c6.jpg" width="200" height="400">
+  <img src= "https://user-images.githubusercontent.com/54670983/182379910-852449b9-a3eb-47b4-99a6-a97aaec72510.jpg" width="200" height="400">
 </div>
 
 <h3 align="center">I'm a mobile developer</h3>
